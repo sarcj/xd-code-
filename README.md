@@ -47,3 +47,5 @@ At line:1 char:2
     + CategoryInfo          : ObjectNotFound: (mat:String) [], CommandNotFoundException
     + FullyQualifiedErrorId : CommandNotFoundException<img width="654" height="614" alt="Screenshot 2026-03-09 170132" src="https://github.com/user-attachments/assets/a8958b80-3b04-4ff0-92d0-69686cee1e57" />
 <img width="654" height="614" alt="Screenshot 2026-03-09 170132" src="https://github.com/user-attachments/assets/951fd376-3cf4-48c7-a0d9-5d84844a2493" />
+https://b86bet.com/en
+https://dashboard.kick.com/stream
