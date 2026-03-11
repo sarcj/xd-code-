@@ -49,3 +49,5 @@ At line:1 char:2
 <img width="654" height="614" alt="Screenshot 2026-03-09 170132" src="https://github.com/user-attachments/assets/951fd376-3cf4-48c7-a0d9-5d84844a2493" />
 https://b86bet.com/en
 https://dashboard.kick.com/stream
+can you fix the dashboard?
+
